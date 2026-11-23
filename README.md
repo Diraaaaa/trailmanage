@@ -1,20 +1,17 @@
-# 🚆 Train Management System
+# RAIL MANAGE 🚄
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## 📖 Overview
+## Overview
+Rail Manage is a web-based application developed to manage railway reservation activities and administrative operations. The system provides an integrated platform for managing train schedules, passenger information, ticket reservations, transactions, and payment records.
 
-Train Management System is a web-based application developed to manage railway reservation activities and administrative operations. The system provides an integrated platform for managing train schedules, passenger information, ticket reservations, transactions, and payment records.
-
-Built with PHP and MySQL, this application implements database integration and CRUD (Create, Read, Update, Delete) functionality to support efficient and structured data management.
-
-## ✨ Features
-
+## Features
 | Feature | Description |
 |---|---|
 | 🚆 Train Management | Manage train information and schedules |
@@ -25,8 +22,7 @@ Built with PHP and MySQL, this application implements database integration and C
 | 📊 Admin Dashboard | Access and monitor application data |
 | ⚙️ CRUD Operations | Create, read, update, and delete data |
 
-## 🛠️ Built With
-
+## Built With
 - **PHP** – Backend development
 - **MySQL** – Relational database management
 - **HTML5** – Web page structure
@@ -35,8 +31,7 @@ Built with PHP and MySQL, this application implements database integration and C
 - **XAMPP** – Local development environment
 - **phpMyAdmin** – Database administration
 
-## 📂 Project Structure
-
+## Project Structure
 ```text
 Train-Management-System/
 │
@@ -62,19 +57,17 @@ Train-Management-System/
 └── README.md
 ```
 
-*Note: Project structure may vary depending on the implementation.*
-
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/USERNAME/Train-Management-System.git
+   git clone https://github.com/Diraaaaa/trailmanage.git
    ```
 
-2. Move the project folder into the XAMPP `htdocs` directory.
+2. Move the project folder into the XAMPP `htdocs` directory
 
-3. Start Apache and MySQL through XAMPP Control Panel.
+3. Start Apache and MySQL through XAMPP Control Panel
 
 4. Open phpMyAdmin:
 
@@ -84,32 +77,30 @@ Train-Management-System/
 
 5. Create a database named `kereta_api`.
 
-6. Import the SQL file from the `database` folder.
+6. Import the SQL file from the `database` folder
 
 7. Configure the database connection in `connect.php`.
 
 8. Open the application in your browser:
 
    ```text
-   http://localhost/Train-Management-System/
+   http://localhost/trailmanage/
    ```
 
-## 🎯 Project Objectives
-
+## Project Objectives
 - Develop a web-based railway management system.
-- Implement PHP for server-side application development.
-- Integrate MySQL for relational database management.
-- Apply CRUD operations to manage application data.
-- Understand backend development and database relationships.
+- Implement PHP for server-side application development
+- Integrate MySQL for relational database management
+- Apply CRUD operations to manage application data
+- Understand backend development and database relationships
 
-## 🚧 Project Status
+## Project Status
 
 **Status:** Development
 
-This project is continuously developed to improve functionality, database integration, and user experience.
-
+- This project is continuously developed to improve functionality, database integration, and user experience
+- ⚠️ All names, passenger information, train schedules, reservation records, and transaction details displayed in this application are fictitious and created solely for demonstration and educational purposes
 ---
 
-<p align="center">
-  Developed as an Academic Web Development Project
-</p>
+## Maintainer
+Athiyyah Anandira
