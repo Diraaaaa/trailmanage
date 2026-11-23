@@ -60,27 +60,27 @@ trailmanage/
 
 ### Login
 <p align="center">
-  <img src="screenshots/Login.png" width="100%" alt="Admin Dashboard">
+  <img src="screenshoot/Login.png" width="100%" alt="Admin Dashboard">
 </p>
 
 ### Admin Dashboard
 <p align="center">
-  <img src="screenshots/Dashboard.png" width="100%" alt="Admin Dashboard">
+  <img src="screenshoot/Dashboard.png" width="100%" alt="Admin Dashboard">
 </p>
 
 ### Train Management
 <p align="center">
-  <img src="screenshots/Kereta.png" width="100%" alt="Train Management">
+  <img src="screenshoot/Kereta.png" width="100%" alt="Train Management">
 </p>
 
 ### Passenger Management
 <p align="center">
-  <img src="screenshots/Penumpang.png" width="100%" alt="Passenger Management">
+  <img src="screenshoot/Penumpang.png" width="100%" alt="Passenger Management">
 </p>
 
 ### Reservation Management
 <p align="center">
-  <img src="screenshots/Reservasi.png" width="100%" alt="Reservation Management">
+  <img src="screenshoot/Reservasi.png" width="100%" alt="Reservation Management">
 </p>
 
 ### Transaction Management
