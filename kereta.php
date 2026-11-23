@@ -235,9 +235,9 @@ $summary = $db->query("
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Kereta | RailManage</title>
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="sidebar.css" />
-    <link rel="stylesheet" href="topbar.css" />
+    <link rel="stylesheet" href="asset/css/style.css" />
+    <link rel="stylesheet" href="asset/css/sidebar.css" />
+    <link rel="stylesheet" href="asset/css/topbar.css" />
 
     <style>
         .dashboard {
@@ -512,7 +512,7 @@ $summary = $db->query("
     <aside class="sidebar">
 
         <div class="brand">
-            <img src="image/logo ka.png" alt="Logo">
+            <img src="asset/image/logo ka.png" alt="Logo">
             <div>
                 <h2>RailManage</h2>
                 <small>Railway Management</small>
