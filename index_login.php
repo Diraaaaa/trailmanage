@@ -7,7 +7,7 @@
     <head>
         <title>Login</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="asset/css/style.css" />
         <style>
             .login-screen {
                 min-height: 100vh;
@@ -217,7 +217,7 @@
         <section class="login-screen" id="loginScreen">
             <div class="login-visual">
                 <div class="login-logo"><div class="brand-mark">
-                    <img id="logo-img" src="image/logo ka.png" alt="Logo">
+                    <img id="logo-img" src="asset/image/logo ka.png" alt="Logo">
                 </div>
                 <div>
                     <div class="brand-name">RailManage</div>
