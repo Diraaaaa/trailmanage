@@ -85,7 +85,7 @@ trailmanage/
 
 ### Transaction Management
 <p align="center">
-  <img src="screenshots/Transaksi.png" width="100%" alt="Transaction Management">
+  <img src="screenshoot/Transaksi.png" width="100%" alt="Transaction Management">
 </p>
 
 
