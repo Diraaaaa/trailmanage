@@ -82,7 +82,7 @@ trailmanage/
 8. Open the application in your browser:
 
    ```text
-   http://localhost/trailmanage/
+   http://localhost/trailmanage/index_login.php
    ```
 
 ## Project Objectives
