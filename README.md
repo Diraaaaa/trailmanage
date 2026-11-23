@@ -18,7 +18,6 @@ Rail Manage is a web-based application developed to manage railway reservation a
 | 👤 Passenger Management | Manage passenger records |
 | 🎫 Reservation Management | Manage ticket reservations |
 | 💳 Transaction Management | Record and manage transactions |
-| 💰 Payment Management | Manage payment methods and records |
 | 📊 Admin Dashboard | Access and monitor application data |
 | ⚙️ CRUD Operations | Create, read, update, and delete data |
 
@@ -33,28 +32,27 @@ Rail Manage is a web-based application developed to manage railway reservation a
 
 ## Project Structure
 ```text
-Train-Management-System/
+trailmanage/
 │
 ├── assets/
 │   ├── css/
-│   ├── js/
+│      ├── sidebar.css
+│      ├── style.css
+│      └── topbar.css
 │   └── images/
+│      └── logo ka.png
 │
 ├── database/
 │   └── kereta_api.sql
-│
-├── config/
-│   └── connect.php
-│
-├── dashboard/
-├── kereta/
-├── penumpang/
-├── reservasi/
-├── transaksi/
-├── pembayaran/
-│
-├── index.php
-└── README.md
+│ 
+├── README.md
+├── connect.php
+├── dashboard.php
+├── index_login.php
+├── kereta.php
+├── penumpang.php
+├── reservasi.php
+└── transaksi.php
 ```
 
 ## Installation & Setup
